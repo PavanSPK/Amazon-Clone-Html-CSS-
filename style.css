@@ -161,6 +161,7 @@ span{
 
 .hero-msg a{
     color: #007185;
+    text-decoration: none;
 }
 
 .hero-msg a:hover{
